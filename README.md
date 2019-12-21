@@ -1,2 +1,0 @@
-# Cropper
-Created with CodeSandbox
